@@ -96,5 +96,3 @@ df = pd.read_csv("/path/to/training_dataset.csv")
    predicted_age = np.exp(predicted_log_age)
    ```
 4. **Display Predicted Ages**
-
-This README provides a high-level overview of the code flow, from loading and preparing the dataset to training, testing, and validating the model for crab age prediction.
